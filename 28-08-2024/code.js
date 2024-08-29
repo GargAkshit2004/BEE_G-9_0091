@@ -1,1 +1,2 @@
-//Code part
+//Code partfff
+console.log("ff")
